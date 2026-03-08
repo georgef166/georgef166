@@ -1,4 +1,4 @@
-![Hackathons](https://img.shields.io/badge/Hackathons-5%2B-brightgreen?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathons-7%2B-brightgreen?style=flat-square)
 ![Projects](https://img.shields.io/badge/Projects-10%2B-brightgreen?style=flat-square)
 ![Workshops](https://img.shields.io/badge/Workshops-3%2B-brightgreen?style=flat-square)
 
