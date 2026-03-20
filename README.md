@@ -1,11 +1,10 @@
-![Hackathons](https://img.shields.io/badge/Hackathons-7%2B-brightgreen?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-10%2B-brightgreen?style=flat-square)
-![Workshops](https://img.shields.io/badge/Workshops-3%2B-brightgreen?style=flat-square)
+![Hackathon Wins](https://img.shields.io/badge/Hackathons-9%2B-brightgreen?style=flat-square)
+![Workshops Given](https://img.shields.io/badge/Workshops-3%2B-brightgreen?style=flat-square)
 
 ## About
-👋 Hey, I'm George! I'm an AI Solutions Engineer Associate at Flite Transport. I work on maintaining our GCP deployments & I'm currently developing a Route Optimization algorithm using OR Tools! In my spare time, I love participating in hackathons, building projects, and exploring new tech!
+👋 Hey, I'm George! Incoming SWE @ Scotiabank & AI Engineer @ Flite Transport. I work on maintaining our GCP deployments & I'm currently developing a Route Optimization algorithm using OR Tools! In my spare time, I love participating in hackathons, building projects, and exploring new tech!
 
-- 📍 Location: Oakville, Ontario
+- 📍 Location: Toronto, Ontario
 - 🎓 Education: Sheridan College Institute of Technology and Advanced Learning
 - 📅 Hacking Since: 2018 (I first started coding when I was 10!)
 
