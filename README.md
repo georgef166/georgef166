@@ -35,7 +35,6 @@
 
 ## 📊 GitHub Pulse
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgef166&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=georgef166&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
 </p>
 
