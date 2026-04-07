@@ -1,6 +1,6 @@
 <h1 align="center">⚡ George Farag</h1>
 <p align="center">
-  <em>SWE @ Scotiabank (Summer 2026) • AI Solutions Engineer • Hackathon Builder</em>
+  <em>SWE @ Scotiabank • AI Engineer @ FliteTransport • Hackathon Connoisseur</em>
 </p>
 
 <p align="center">
