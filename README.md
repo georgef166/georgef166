@@ -13,8 +13,8 @@
 </p>
 
 ## 🧠 About
-- 💻 SWE @ **Scotiabank** (Summer 2026)
-- 💼 AI Solutions Engineer at **Flite Transport**
+- 💻 Software Engineer @ **Scotiabank** (Summer 2026)
+- 💼 AI Engineer @ **Flite Transport**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> VP of **Google Developer Group Sheridan**
 - 🎓 Sheridan College Institute of Technology and Advanced Learning
 - 🔭 Focused on **Innovating** with AI, limitless **Data**, and full-stack **PoCs**
