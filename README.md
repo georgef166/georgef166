@@ -25,23 +25,13 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,nodejs,react,html,css,git,github,vscode" />
 </p>
 
-## 🧩 New + Notable Projects
+## 🧩 Cool Projects
 | Project | What it is | Stack |
 |---|---|---|
 | [Ember](https://github.com/georgef166/Ember) — Won 'Google Build with AI' + 'Spur Innovation' Tracks @ HackCanada 2026 | An XR firefighter system with software integrated into a mask-mounted headset, plus a commander hub that can place XR guidance objects and highlight doors/hazards in firefighters’ view. | TypeScript + Next.js + WebRTC |
 | [Voxel](https://github.com/georgef166/GenAIGenesis2026) — Won Best AI Hack @ GenAI Genesis 2026 | An XR education experience for children that turns learning into an interactive, engaging activity. | Dart + Flutter + Meshy API |
 | [Rocky](https://github.com/georgef166/DeerHacks2026) — Won 2nd + Best Use of Vultr @ DeerHacks V | A child safety app that detects risky situations and sends clear, real-time alerts to parents. | TypeScript + Next.js + Gemini API |
 | [A11Yson](https://github.com/georgef166/A11Yson) | An accessibility Chrome Extension that adapts any website into easier reading modes for different learning and sensory need. | TypeScript + FastAPI + Chrome Extension |
-
-## 📊 GitHub Pulse
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=georgef166&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
-</p>
-
-## 🏆 Hackathon Energy
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=georgef166&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
 
 ## 🤝 Connect
 - GitHub: [@georgef166](https://github.com/georgef166)
