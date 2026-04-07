@@ -34,6 +34,6 @@
 | [A11Yson](https://github.com/georgef166/A11Yson) | An accessibility Chrome Extension that adapts any website into easier reading modes for different learning and sensory need. | TypeScript + FastAPI + Chrome Extension |
 
 ## 🤝 Connect
-- GitHub: [@georgef166](https://github.com/georgef166)
 - LinkedIn: [George Farag](https://www.linkedin.com/in/gfarag/)
 - Website: [georgefarag.dev](https://georgefarag.dev/)
+- GitHub: [@georgef166](https://github.com/georgef166)
