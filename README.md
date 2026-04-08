@@ -1,6 +1,6 @@
 <h1 align="center">George Farag</h1>
 <p align="center">
-  <em>Software Engineer @ Scotiabank • AI Engineer @ FliteTransport • Hackathon Connoisseur</em>
+  <em>I like to build (...or break) things</em>
 </p>
 
 <p align="center">
