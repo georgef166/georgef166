@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm George Farag</h1>
+<h1 align="center">Hi, George Farag</h1>
 <p align="center">
-  <em>I like to build (...or break) things</em>
+  <em>I like to build (...and break) things</em>
 </p>
 
 <p align="center">
