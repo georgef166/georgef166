@@ -1,4 +1,4 @@
-<h1 align="center">Hi, George Farag</h1>
+<h1 align="center">Hi, I'm George</h1>
 <p align="center">
   <em>I like to build (...and break) things</em>
 </p>
