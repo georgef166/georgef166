@@ -35,5 +35,5 @@
 
 ## 🤝 Connect
 - LinkedIn: [George Farag](https://www.linkedin.com/in/gfarag/)
-- Website: [georgefarag.dev](https://georgefarag.dev/)
+- Website: [georgefarag.ca](https://georgefarag.ca/)
 - GitHub: [@georgef166](https://github.com/georgef166)
