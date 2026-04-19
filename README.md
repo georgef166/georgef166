@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathons%20Attended-10%2B-22c55e?style=for-the-badge" alt="Hackathons Attended" />
+  <img src="https://img.shields.io/badge/Hackathons%20Won-10%2B-22c55e?style=for-the-badge" alt="Hackathons Attended" />
   <img src="https://img.shields.io/badge/Hackathons%20Organized-2%2B-0ea5e9?style=for-the-badge" alt="Hackathons Organized" />
 </p>
 
