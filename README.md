@@ -13,11 +13,11 @@
 </p>
 
 ## 🧠 About
-- 💻 Software Engineer @ **Scotiabank** (Summer 2026)
-- 💼 AI Engineer @ **Flite Transport**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> VP of **Google Developer Group Sheridan**
-- 🎓 Data Engineering @ Sheridan College
-- 🔭 Focused on **Innovating** with AI, limitless **Data**, and full-stack **PoCs**
+- 💻 **Software Engineer** @ *Scotiabank* (Summer 2026)
+- 💼 Prev **AI Engineer** @ *Flite Transport*
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **VP** of *Google Developer Group Sheridan*
+- 🎓 **Data Engineering** @ *Sheridan College*
+- 🔭 Focused on **Innovating** with AI, creating with **Data**, and full-stack **PoCs**
 - 🚀 Hacking and building in public since **2024**
 
 ## 🛠️ Toolbox
