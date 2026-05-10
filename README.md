@@ -13,7 +13,7 @@
 </p>
 
 ## 🧠 About
-- 💻 **Software Engineer** @ *Scotiabank* (Summer 2026)
+- 💻 **Software Engineer** @ *Scotiabank*
 - 💼 Prev **AI Engineer** @ *Flite Transport*
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **VP** of *Google Developer Group Sheridan*
 - 🎓 **Data Engineering** @ *Sheridan College*
