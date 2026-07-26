@@ -22,14 +22,35 @@
 - 🚀 Hacking and building in public since **2024**
 
 ## 🛠️ Toolbox
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,nodejs,react,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,typescript,javascript,dart,html,css" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,fastapi,flask,dotnet,pytorch" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,pycharm" />
 </p>
 
 ## 🧩 Cool Projects
 | Project | What it is | Stack |
 |---|---|---|
-| [Ember](https://github.com/georgef166/Ember) — Won 'Google Build with AI' + 'Spur Innovation' Tracks @ HackCanada 2026 | An XR firefighter system with software integrated into a mask-mounted headset, plus a commander hub that can place XR guidance objects and highlight doors/hazards in firefighters’ view. | TypeScript + Next.js + WebRTC |
+| [Ember](https://github.com/georgef166/Ember) — Top 3 North America @ Google Solutions Challenge 2026 + 'Spur Innovation' Tracks @ HackCanada 2026 | An XR firefighter system with software integrated into a mask-mounted headset, plus a commander hub that can place XR guidance objects and highlight doors/hazards in firefighters’ view. | TypeScript + Next.js + WebRTC |
 | [Voxel](https://github.com/georgef166/GenAIGenesis2026) — Won Best AI Hack @ GenAI Genesis 2026 | An XR education experience for children that turns learning into an interactive, engaging activity. | Dart + Flutter + Meshy API |
 | [Rocky](https://github.com/georgef166/DeerHacks2026) — Won 2nd + Best Use of Vultr @ DeerHacks V | A child safety app that detects risky situations and sends clear, real-time alerts to parents. | TypeScript + Next.js + Gemini API |
 | [A11Yson](https://github.com/georgef166/A11Yson) | An accessibility Chrome Extension that adapts any website into easier reading modes for different learning and sensory need. | TypeScript + FastAPI + Chrome Extension |
