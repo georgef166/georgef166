@@ -15,6 +15,7 @@
 
 ## 🧠 About
 - 💻 **Software Engineer** Intern @ *Scotiabank*
+- 🤖 **AI / ML** @ *Town of Oakville*
 - 💼 Prev **AI Engineer** @ *Flite Transport*
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **President** @ *Google Developer Group Sheridan*
 - 🎓 **Data Engineering** @ *Sheridan College*
