@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Scotiabank">
+  <g fill="none" stroke="#EC111A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m34.5 12l6.749-7.5h-19.5c-9 0-15 11.25-9.75 18C12 18 18 12 21 12zm-21 24l-6.749 7.5H26.25c9 0 14.999-11.25 9.75-18C36 30 30 36 27 36z"/>
+    <circle cx="24" cy="24" r="9"/>
+  </g>
+</svg>

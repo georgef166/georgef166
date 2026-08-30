@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar-dots.svg" width="500" alt="Portrait of George Farag, drawn dot by dot" />
+  <img src="./assets/avatar-dots.svg" height="500" width="500" alt="Portrait of George Farag, drawn dot by dot" />
 </p>
 
 <p align="center">
@@ -12,12 +12,13 @@
   <img src="https://img.shields.io/badge/Workshops%20Given-5%2B-FF0000?style=for-the-badge" alt="Workshops Given" />
 </p>
 
-## 🧠 About
-- 💻 **Software Engineer Intern** @ *Scotiabank*
+## 📘 About
 - 🤖 **AI / ML** @ *Town of Oakville*
-- 💼 Prev **AI Engineer Intern** @ *Flite Transport*
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **President** @ *Google Developer Group Sheridan*
 - 🎓 **CS - Data Engineering** @ *Sheridan College*
+- <img src="./assets/scotiabank.svg" alt="Scotiabank Logo" width="24" height="24" /> Prev **Software Engineer Intern** @ *Scotiabank*
+- 💼 Prev **AI Engineer Intern** @ *Flite Transport*
 - 🔭 Focused on **Innovating** with AI, creating with **Data**, and full-stack **PoCs**
 - 🚀 Hacking and building in public since **2024**
 
@@ -50,12 +51,12 @@
 ## 🧩 Cool Projects
 | Project | What it is | Stack |
 |---|---|---|
-| [Ember](https://github.com/georgef166/Ember) — Top 3 North America @ Google Solutions Challenge 2026 + 'Spur Innovation' Tracks @ HackCanada 2026 | An XR firefighter system with software integrated into a mask-mounted headset, plus a commander hub that can place XR guidance objects and highlight doors/hazards in firefighters’ view. | TypeScript + Next.js + WebRTC |
+| [Ember](https://github.com/georgef166/Ember) — Winner @ Google Solutions Challenge 2026 + 'Spur Innovation' Track @ HackCanada 2026 | An XR firefighter system with software integrated into a mask-mounted headset, plus a commander hub that can place XR guidance objects and highlight doors/hazards in firefighters’ view. | TypeScript + Next.js + WebRTC |
 | [Voxel](https://github.com/georgef166/GenAIGenesis2026) — Won Best AI Hack @ GenAI Genesis 2026 | An XR education experience for children that turns learning into an interactive, engaging activity. | Dart + Flutter + Meshy API |
 | [Rocky](https://github.com/georgef166/DeerHacks2026) — Won 2nd + Best Use of Vultr @ DeerHacks V | A child safety app that detects risky situations and sends clear, real-time alerts to parents. | TypeScript + Next.js + Gemini API |
 | [A11Yson](https://github.com/georgef166/A11Yson) | An accessibility Chrome Extension that adapts any website into easier reading modes for different learning and sensory need. | TypeScript + FastAPI + Chrome Extension |
 
-## 📈 Commit History, in 3D
+## 🌐 3D Commit History
 <!--
   Regenerated daily by .github/workflows/profile-3d.yml.
   Colours come from .github/profile-3d-settings.json (green -> blue ramp,
