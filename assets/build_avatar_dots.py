@@ -10,29 +10,33 @@ import math
 import os
 import sys
 
-from PIL import Image, ImageEnhance
+from PIL import Image, ImageChops, ImageEnhance, ImageFilter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # --- knobs --------------------------------------------------------------
+SOURCE   = "2995E953-8C0A-4B12-9569-DD4094B29C53_1_105_c.jpeg"  # path relative to this file (or absolute)
 GRID     = 70      # dots per side
-CROP     = (50, 60, 330, 340)   # head-and-shoulders crop of the 460x460 avatar
+CROP     = (104, 270, 564, 730)  # head-and-shoulders crop of the 768x1024 photo
 SIZE     = 360     # rendered card size in px
 INSET    = 16      # padding between card edge and the dot field
 BG       = "#0d1117"
 BORDER   = "#30363d"
 
-CONTRAST   = 1.55
+CONTRAST   = 1.20
 SATURATION = 1.00
-BRIGHTNESS = 1.06
+BRIGHTNESS = 1.00
 
 R_MIN, R_MAX = 0.42, 1.04   # dot radius as a fraction of half-cell
 R_GAMMA      = 0.70         # <1 lifts the shadows so dark areas keep some dot
 MIN_ALPHA    = 0.02         # drop dots dimmer than this (shrinks the file)
-STRETCH      = (2.0, 98.0)  # percentiles mapped to black/white before sizing dots
+STRETCH      = (1.0, 99.0)  # percentiles mapped to black/white before sizing dots
+GRAY_GAMMA   = 1.00         # <1 lifts shadows in the grayscale fill (backlit subjects)
+LOCAL_GAIN   = 3.0          # >0 enables local-contrast normalisation (for backlit shots)
+LOCAL_RADIUS = 40           # blur radius that defines "local" for that normalisation
 VIGNETTE     = 0.85         # 0 = off; fades the corners so the face carries the frame
-VIG_CENTER   = (0.45, 0.30)  # where the vignette is centred, as a fraction of the frame
-VIG_INNER    = 0.34          # everything inside this radius is left at full strength
+VIG_CENTER   = (0.50, 0.38)  # where the vignette is centred, as a fraction of the frame
+VIG_INNER    = 0.30          # everything inside this radius is left at full strength
 
 BUCKETS   = 150    # dots animate in this many staggered waves along the scan
 BUILD_IN  = 5.60   # time for the portrait to draw in
@@ -42,7 +46,16 @@ REST      = 0.70   # blank beat before it redraws
 
 
 def build(mode="color", out_name="avatar-dots.svg"):
-    img = Image.open(os.path.join(HERE, "avatar.jpg")).convert("RGB").crop(CROP)
+    src = SOURCE if os.path.isabs(SOURCE) else os.path.normpath(os.path.join(HERE, SOURCE))
+    img = Image.open(src).convert("RGB").crop(CROP)
+    if LOCAL_GAIN:
+        # subtract a heavily blurred copy: cancels the global light/dark split so a
+        # face lit dimmer than its background still shows its own detail
+        g = img.convert("L")
+        blur = g.filter(ImageFilter.GaussianBlur(radius=LOCAL_RADIUS))
+        detail = ImageChops.subtract(g, blur, 1.0, 128)
+        detail = ImageEnhance.Contrast(detail).enhance(LOCAL_GAIN)
+        img = detail.convert("RGB")
     img = ImageEnhance.Contrast(img).enhance(CONTRAST)
     img = ImageEnhance.Color(img).enhance(SATURATION)
     img = ImageEnhance.Brightness(img).enhance(BRIGHTNESS)
@@ -79,7 +92,7 @@ def build(mode="color", out_name="avatar-dots.svg"):
             cx = INSET + gx * cell + half
             cy = INSET + gy * cell + half
             if mode == "gray":
-                v = int(round(255 * min(max((0.2126 * r + 0.7152 * g + 0.0722 * b) / 255, 0.0), 1.0)))
+                v = int(round(255 * (lum ** GRAY_GAMMA)))
                 fill = f"#{v:02x}{v:02x}{v:02x}"
             elif mode == "color":
                 fill = f"#{r:02x}{g:02x}{b:02x}"
