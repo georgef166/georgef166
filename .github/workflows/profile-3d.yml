@@ -19,6 +19,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
+      - name: Recolour language pie chart
+        run: python3 .github/recolor-languages.py profile-3d-contrib/profile-green-blue.svg
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
