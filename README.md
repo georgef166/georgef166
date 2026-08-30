@@ -58,14 +58,11 @@
 ## 📈 Commit History, in 3D
 <!--
   Regenerated daily by .github/workflows/profile-3d.yml.
-  Swap the filename below for a different look — available variants:
-    profile-green-animate.svg   profile-green.svg
-    profile-season-animate.svg  profile-season.svg
-    profile-night-view.svg      profile-night-green.svg
-    profile-night-rainbow.svg   profile-gitblock.svg
+  Colours come from .github/profile-3d-settings.json (green -> blue ramp,
+  with a separate palette for dark-mode viewers). Edit contribColors there.
 -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900" alt="Isometric 3D graph of my GitHub contribution history" />
+  <img src="./profile-3d-contrib/profile-green-blue.svg" width="900" alt="Isometric 3D graph of my GitHub contribution history" />
 </p>
 
 ## 🤝 Connect
