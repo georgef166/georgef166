@@ -39,10 +39,10 @@ VIG_CENTER   = (0.50, 0.38)  # where the vignette is centred, as a fraction of t
 VIG_INNER    = 0.30          # everything inside this radius is left at full strength
 
 BUCKETS   = 150    # dots animate in this many staggered waves along the scan
-BUILD_IN  = 5.60   # time for the portrait to draw in
-HOLD      = 5.00   # time the finished portrait sits still
-FADE_OUT  = 2.60   # time to clear away
-REST      = 0.70   # blank beat before it redraws
+BUILD_IN  = 3.60   # time for the portrait to draw in
+HOLD      = 4.00   # time the finished portrait sits still
+FADE_OUT  = 1.70   # time to clear away
+REST      = 0.60   # blank beat before it redraws
 
 
 def build(mode="color", out_name="avatar-dots.svg"):
