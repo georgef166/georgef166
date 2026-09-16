@@ -13,7 +13,7 @@
 </p>
 
 ## 📘 About
-- 🤖 **AI / ML** @ *Town of Oakville*
+- 🤖 **Data Science** @ *Oakville Futsal*
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **President** @ *Google Developer Group Sheridan*
 - 🎓 **CS - Data Engineering** @ *Sheridan College*
