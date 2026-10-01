@@ -19,7 +19,6 @@
 </br>
 - 🤖 **Data Science** @ *Oakville Futsal*
 - 💼 Prev **AI/ML Engineer Intern** @ *Flite Transport, Town of Oakville*
-</br>
 - 🔭 Focused on **Innovating** with AI, creating with **Data**, and full-stack **PoCs**
 - 🚀 Hacking and building in public since **2024**
 
