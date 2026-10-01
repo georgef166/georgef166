@@ -13,12 +13,13 @@
 </p>
 
 ## 📘 About
-- 🤖 **Data Science** @ *Oakville Futsal*
-
+- <img src="./assets/scotiabank.svg" alt="Scotiabank Logo" width="24" height="24" /> Prev **Software Engineer Intern** @ *Scotiabank*
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" /> **President** @ *Google Developer Group Sheridan*
 - 🎓 **CS - Data Engineering** @ *Sheridan College*
-- <img src="./assets/scotiabank.svg" alt="Scotiabank Logo" width="24" height="24" /> Prev **Software Engineer Intern** @ *Scotiabank*
+
+- 🤖 **Data Science** @ *Oakville Futsal*
 - 💼 Prev **AI Engineer Intern** @ *Flite Transport*
+
 - 🔭 Focused on **Innovating** with AI, creating with **Data**, and full-stack **PoCs**
 - 🚀 Hacking and building in public since **2024**
 
