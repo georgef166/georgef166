@@ -15,9 +15,9 @@ from PIL import Image, ImageChops, ImageEnhance, ImageFilter
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # --- knobs --------------------------------------------------------------
-SOURCE   = "2995E953-8C0A-4B12-9569-DD4094B29C53_1_105_c.jpeg"  # path relative to this file (or absolute)
-GRID     = 70      # dots per side
-CROP     = (104, 270, 564, 730)  # head-and-shoulders crop of the 768x1024 photo
+SOURCE   = "portrait.jpg"  # path relative to this file (or absolute)
+GRID     = 100     # dots per side
+CROP     = (0, 0, 1024, 1024)  # square crop of the 1024x1041 photo (keeps its top edge)
 SIZE     = 360     # rendered card size in px
 INSET    = 16      # padding between card edge and the dot field
 BG       = "#0d1117"
@@ -32,7 +32,7 @@ R_GAMMA      = 0.70         # <1 lifts the shadows so dark areas keep some dot
 MIN_ALPHA    = 0.02         # drop dots dimmer than this (shrinks the file)
 STRETCH      = (1.0, 99.0)  # percentiles mapped to black/white before sizing dots
 GRAY_GAMMA   = 1.00         # <1 lifts shadows in the grayscale fill (backlit subjects)
-LOCAL_GAIN   = 3.0          # >0 enables local-contrast normalisation (for backlit shots)
+LOCAL_GAIN   = 1.5          # >0 enables local-contrast normalisation (raise it for backlit shots)
 LOCAL_RADIUS = 40           # blur radius that defines "local" for that normalisation
 VIGNETTE     = 0.85         # 0 = off; fades the corners so the face carries the frame
 VIG_CENTER   = (0.50, 0.38)  # where the vignette is centred, as a fraction of the frame
