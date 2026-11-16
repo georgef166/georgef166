@@ -22,8 +22,7 @@
 - **Data Scientist Intern** @ *Oakville Futsal Club*
 - Prev **AI/ML Engineer Intern** @ *Flite Transport, Town of Oakville*
 - **CS - Data Engineering** @ *Sheridan College*
-- Focused on **Innovating** with AI, creating with **Data**, and full-stack **PoCs**
-- Hacking and building in public since **2024**
+- Hacking and building in public since **2024** :D
 
 ## Toolbox
 **Languages**
