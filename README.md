@@ -13,7 +13,7 @@
 </p>
 
 ## About
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="14" height="14" /> Incoming **Software Engineer Intern, Data Platform/Analytics** @ *Microsoft* (Summer 2027)
+- <img src="./assets/microsoft.svg" alt="Microsoft" width="14" height="14" /> Incoming **Software Engineer Intern, Data Platform/Analytics** @ *Microsoft* (Summer 2027)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="10" /> Incoming **Client Engineering Intern, Data & AI** @ *IBM* (Fall 2027)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="14" height="14" /> **President** @ *Google Developer Group Sheridan*
 - <img src="./assets/scotiabank.svg" alt="Scotiabank" width="14" height="14" /> Prev **Software Engineer Intern** @ *Scotiabank*, AOO Award (5 of 245 interns)
